@@ -1,6 +1,6 @@
 ## Laravel Oauth
-- Instagram Api
 - Google Api
+- Instagram Api
 - Twitter
 - Facebook 
 - Github api
